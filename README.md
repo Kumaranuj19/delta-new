@@ -1,2 +1,2 @@
 # delta-new
-This is a library demo
+This is a library demo.
